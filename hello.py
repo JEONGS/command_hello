@@ -1,3 +1,6 @@
+//for command Line git_ex
+//github editfication
+
 println("Hello World")
 println("Hello JEONG SEONIN")
 <<<<<<< HEAD
